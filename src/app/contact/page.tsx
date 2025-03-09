@@ -38,7 +38,7 @@ export default function Contact() {
         <h1 className="text-4xl font-bold text-center text-green-700 mb-8">Contact Us</h1>
         
         <p className="text-gray-600 text-center mb-8">
-          Have questions about our agricultural services? We&apos;d love to hear from you.
+          Have questions about our agricultural services? Wed love to hear from you.
           Send us a message and we will respond as soon as possible.
         </p>
 
