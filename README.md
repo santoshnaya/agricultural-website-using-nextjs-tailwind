@@ -1,5 +1,6 @@
-Check Here: https://agricultural-alpha.vercel.app/
-DEMO:
+Check Here: https://agricultural-alpha.vercel.app
+
+
 ![image alt](1.png)
 ![image alt](2.png)
 ![image alt](3.png)
